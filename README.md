@@ -61,6 +61,7 @@ In some situations, you may prefer to run MINIX on non-Intel computers. We have 
 
 Each simulator contains its own documentation.  Please consult these.
 
-Andy Tanenbaum (ast@cs.vu.nl)
-Al Woodhull (awoodhull@hamp.hampshire.edu)
-Kees Bot (kjb@cs.vu.nl)
+## CONTACT
+* Andy Tanenbaum (ast@cs.vu.nl)
+* Al Woodhull (awoodhull@hamp.hampshire.edu)
+* Kees Bot (kjb@cs.vu.nl)
